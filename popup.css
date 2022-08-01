@@ -1,0 +1,30 @@
+body {
+    background: #f1f5f9;
+}
+
+.wrapper {
+    width: 300px;
+    text-align: center;
+}
+
+.scrapUserInformationBtn {
+    width: 200px;
+    outline: none;
+    border: none;
+    border-radius: 2px;
+    padding: 5px;
+    background: #0a66c2;
+    color: #ffffff;
+    cursor: pointer;
+}
+
+.selectedContainer {
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+}
+
+#container {
+    margin-left: 5px;
+    font-weight: bold;
+}
